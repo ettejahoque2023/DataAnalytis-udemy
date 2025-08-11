@@ -1,2 +1,4 @@
 ipykernel
-git pull origin main --allow-unrelated-histories
+numpy
+
+{git pull origin main --allow-unrelated-histories}
